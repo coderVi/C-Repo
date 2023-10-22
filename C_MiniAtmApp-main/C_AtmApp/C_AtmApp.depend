@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675522814 source:c:\users\mrasm\onedrive\masaüstü\şahsi\belgeler\c deneme\c_hesapmakinesi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
